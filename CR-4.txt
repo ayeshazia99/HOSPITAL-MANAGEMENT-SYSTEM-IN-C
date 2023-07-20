@@ -1,0 +1,3 @@
+ BUILDING = EE - Building
+FLOOR = Basement
+DIRECTION = At Right Hand

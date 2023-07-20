@@ -1,0 +1,3 @@
+ BUILDING = EE - Building
+FLOOR = 3rd Floor
+DIRECTION = At Right hand

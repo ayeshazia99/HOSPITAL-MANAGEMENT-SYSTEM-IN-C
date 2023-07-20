@@ -1,0 +1,3 @@
+ BUILDING = CS - Building
+FLOOR = 2nd Floor
+DIRECTION = At Right Hand
